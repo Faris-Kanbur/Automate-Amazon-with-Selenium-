@@ -1,7 +1,7 @@
 # Automate-Amazon-with-Selenium-
 
 
-# Selenium project with POM design.
+##Selenium project with POM design.
 
 ## Test Steps 
 
